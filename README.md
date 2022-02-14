@@ -1,1 +1,1 @@
-# awesome-visual-sensory-anormaly-detection
+# awesome-visual-sensory-anomaly-detection
