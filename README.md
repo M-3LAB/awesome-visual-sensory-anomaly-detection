@@ -25,7 +25,7 @@ We collected outstanding anomaly detection papers in the last five years and cla
 ### Object-level AD
 #### Unsupervised
 + Deep One-Class Classification via Interpolated Gaussian Descriptor [[AAAI 2022]](https://arxiv.org/abs/2101.10043)
-+ 
+
 + CutPaste: Self-Supervised Learning for Anomaly Detection and Localization [[CVPR 2021]](http://openaccess.thecvf.com/content/CVPR2021/html/Li_CutPaste_Self-Supervised_Learning_for_Anomaly_Detection_and_Localization_CVPR_2021_paper.html)
 + A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Sheynin_A_Hierarchical_Transformation-Discriminating_Generative_Model_for_Few_Shot_Anomaly_Detection_ICCV_2021_paper.html)
 + DRAEM – A discriminatively trained reconstruction embedding for surface anomaly detection [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.html)
