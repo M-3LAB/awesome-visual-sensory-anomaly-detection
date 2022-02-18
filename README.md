@@ -121,4 +121,3 @@ We collected outstanding anomaly detection papers in the last five years and cla
 + Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks [TPAMI 2019](https://ieeexplore.ieee.org/abstract/document/8851288/)
 + Fast Abnormal Event Detection [IJCV 2019](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11263-018-1129-8&casa_token=-h5zJP3S09wAAAAA:WK2dlVjvS0bawTjEekAP87cK42Nq6EqfZC63geAfbEMs5mCLax4tD0NFLqNdabzMinM5o5SRxxf_3Ow73Uk)
 
-
