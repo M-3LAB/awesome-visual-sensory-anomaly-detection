@@ -46,8 +46,10 @@ We collected outstanding anomaly detection papers in the last five years and cla
 
 #### Weakly Supervised
 + Neural Batch Sampling with Reinforcement Learning for Semi-Supervised Anomaly Detection [[ECCV 2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710749.pdf)
+
 + Attention Guided Anomaly Localization in Images [[ECCV 2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620477.pdf)
 + Multistage GAN for Fabric Defect Detection [[TIP 2019]](https://ieeexplore.ieee.org/abstract/document/8937049/)
+
 + Few-shot domain-adaptive anomaly detection for cross-site brain images [[TPAMI 2021]](https://ieeexplore.ieee.org/abstract/document/9606561/)
 + Domain Adaptation for Automatic OLED Panel Defect Detection Using Adaptive Support Vector Data Description [[IJCV 2017]](https://link.springer.com/article/10.1007/s11263-016-0953-y)
 + Explainable Deep One-Class Classification [[ICLR 2021]](https://openreview.net/forum?id=A5VV3UyIQz)
@@ -65,10 +67,15 @@ We collected outstanding anomaly detection papers in the last five years and cla
 #### Weakly Supervised
 
 + Detecting the Unexpected via Image Resynthesis [[ICCV 2019]](http://openaccess.thecvf.com/content_ICCV_2019/html/Lis_Detecting_the_Unexpected_via_Image_Resynthesis_ICCV_2019_paper.html)
+
 + Pixel-wise Anomaly Detection in Complex Driving Scenes [[CVPR 2021]](http://openaccess.thecvf.com/content/CVPR2021/html/Di_Biase_Pixel-Wise_Anomaly_Detection_in_Complex_Driving_Scenes_CVPR_2021_paper.html)
+
 + Road Anomaly Detection by Partial Image Reconstruction with Segmentation Coupling [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Vojir_Road_Anomaly_Detection_by_Partial_Image_Reconstruction_With_Segmentation_Coupling_ICCV_2021_paper.html)
+
 + Detection and Retrieval of Out-of-Distribution Objects in Semantic Segmentation [[CVPR 2020]](http://openaccess.thecvf.com/content_CVPRW_2020/html/w20/Oberdiek_Detection_and_Retrieval_of_Out-of-Distribution_Objects_in_Semantic_Segmentation_CVPRW_2020_paper.html)
+
 + Synthesize Then Compare: Detecting Failures and Anomalies for Semantic Segmentation [[ECCV 2020]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_9)
+
 + Detecting Unexpected Obstacles for Self-Driving Cars: Fusing Deep Learning and Geometric Modeling[[VI 2017]](https://ieeexplore.ieee.org/abstract/document/7995849/)
 
 #### Supervised
@@ -90,7 +97,7 @@ We collected outstanding anomaly detection papers in the last five years and cla
 + Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos [[CVPR 2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.html)
 + Anomaly Detection in Video Sequence with Appearance-Motion Correspondence [[ICCV 2019]](http://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.html)
 + Deep-Cascade: Cascading 3D Deep Neural Networks for Fast Anomaly Detection and Localization in Crowded Scenes [[TIP 2017]](https://ieeexplore.ieee.org/abstract/document/7858798/)
-+ 
+
 + Domain-Transformable Sparse Representation for Anomaly Detection in Moving-Camera Videos [[TIP 2019]](https://ieeexplore.ieee.org/abstract/document/8839745/)
 + Quantifying and Detecting Collective Motion in Crowd Scenes [[TIP 2020]](https://ieeexplore.ieee.org/abstract/document/9062523/)
 + Future Frame Prediction Network for Video Anomaly Detection [[TPAMI 2021]](https://ieeexplore.ieee.org/abstract/document/9622181/)
@@ -105,7 +112,7 @@ We collected outstanding anomaly detection papers in the last five years and cla
 + Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning [ICCV 2021](http://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
 + Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video [IJCAI](https://www.ijcai.org/proceedings/2021/0162.pdf)
 + CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection [ECCV 2020](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_22)
-+ 
+
 + Margin Learning Embedded Prediction for Video Anomaly Detection with A Few Anomalies [IJCAI 2019](https://www.ijcai.org/proceedings/2019/0419.pdf)
 + Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 + Real-world Anomaly Detection in Surveillance Videos [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.html)
@@ -116,7 +123,7 @@ We collected outstanding anomaly detection papers in the last five years and cla
 
 + A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction [ICCV 2021](http://openaccess.thecvf.com/content/ICCV2021/html/Liu_A_Hybrid_Video_Anomaly_Detection_Framework_via_Memory-Augmented_Flow_Reconstruction_ICCV_2021_paper.html)
 + Future frame prediction for anomaly detection–a new baseline [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Future_Frame_Prediction_CVPR_2018_paper.html)
-+ 
+
 + A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework [ICML 2019](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
 + Video Anomaly Detection With Compact Feature Sets for Online Performance [TIP 2017](https://ieeexplore.ieee.org/abstract/document/7903693/)
 + Variational Abnormal Behavior Detection With Motion Consistency [TIP 2021](https://ieeexplore.ieee.org/abstract/document/9633236/)
