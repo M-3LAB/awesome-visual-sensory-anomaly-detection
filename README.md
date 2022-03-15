@@ -106,12 +106,16 @@ We collected outstanding anomaly detection papers in the last five years and cla
 + Deep-Cascade: Cascading 3D Deep Neural Networks for Fast Anomaly Detection and Localization in Crowded Scenes [[TIP 2017]](https://ieeexplore.ieee.org/abstract/document/7858798/)
 ### 3.2 Weakly Supervised
 
++ A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Liu_A_Hybrid_Video_Anomaly_Detection_Framework_via_Memory-Augmented_Flow_Reconstruction_ICCV_2021_paper.html)
 + Dance with Self-Attention: A New Look of Conditional Random Fields on Anomaly Detection in Videos [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Purwanto_Dance_With_Self-Attention_A_New_Look_of_Conditional_Random_Fields_ICCV_2021_paper.html)
 + Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
 + Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video [[IJCAI 2021]](https://www.ijcai.org/proceedings/2021/0162.pdf)
 + Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection [[TIP 2021]](https://ieeexplore.ieee.org/abstract/document/9369126/)
 + CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection [[ECCV 2020]](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_22)
 
++ A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework [[ICML 2019]](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
++ Exploiting Typicality for Selecting Informative and Anomalous Samples in Videos [[TIP 2019]](https://ieeexplore.ieee.org/abstract/document/8693693/)
++ Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks [[TPAMI 2019]](https://ieeexplore.ieee.org/abstract/document/8851288/)
 + Margin Learning Embedded Prediction for Video Anomaly Detection with A Few Anomalies [[IJCAI 2019]](https://www.ijcai.org/proceedings/2019/0419.pdf)
 + Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection [[CVPR 2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 + Localizing Anomalies From Weakly-Labeled Videos [[TIP 2021]](https://ieeexplore.ieee.org/abstract/document/9408419/)
@@ -119,12 +123,9 @@ We collected outstanding anomaly detection papers in the last five years and cla
 
 ### 3.3 Supervised
 
-+ A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Liu_A_Hybrid_Video_Anomaly_Detection_Framework_via_Memory-Augmented_Flow_Reconstruction_ICCV_2021_paper.html)
+
 + Variational Abnormal Behavior Detection With Motion Consistency [[TIP 2021]](https://ieeexplore.ieee.org/abstract/document/9633236/)
 
-+ A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework [[ICML 2019]](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
-+ Exploiting Typicality for Selecting Informative and Anomalous Samples in Videos [[TIP 2019]](https://ieeexplore.ieee.org/abstract/document/8693693/)
-+ Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks [[TPAMI 2019]](https://ieeexplore.ieee.org/abstract/document/8851288/)
 + Fast Abnormal Event Detection [[IJCV 2019]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11263-018-1129-8&casa_token=-h5zJP3S09wAAAAA:WK2dlVjvS0bawTjEekAP87cK42Nq6EqfZC63geAfbEMs5mCLax4tD0NFLqNdabzMinM5o5SRxxf_3Ow73Uk)
 + Future frame prediction for anomaly detection–a new baseline [[CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Future_Frame_Prediction_CVPR_2018_paper.html)
 + Video Anomaly Detection With Compact Feature Sets for Online Performance [[TIP 2017]](https://ieeexplore.ieee.org/abstract/document/7903693/)
