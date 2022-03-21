@@ -111,6 +111,7 @@ We collected outstanding anomaly detection papers in the last five years and cla
 + Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning [[ICCV 2021]](http://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
 + Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video [[IJCAI 2021]](https://www.ijcai.org/proceedings/2021/0162.pdf)
 + Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection [[TIP 2021]](https://ieeexplore.ieee.org/abstract/document/9369126/)
++ Localizing Anomalies From Weakly-Labeled Videos [[TIP 2021]](https://ieeexplore.ieee.org/abstract/document/9408419/)
 + CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection [[ECCV 2020]](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_22)
 
 + A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework [[ICML 2019]](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_A_Revisit_of_ICCV_2017_paper.html)
@@ -118,7 +119,6 @@ We collected outstanding anomaly detection papers in the last five years and cla
 + Video Anomaly Detection with Sparse Coding Inspired Deep Neural Networks [[TPAMI 2019]](https://ieeexplore.ieee.org/abstract/document/8851288/)
 + Margin Learning Embedded Prediction for Video Anomaly Detection with A Few Anomalies [[IJCAI 2019]](https://www.ijcai.org/proceedings/2019/0419.pdf)
 + Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection [[CVPR 2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
-+ Localizing Anomalies From Weakly-Labeled Videos [[TIP 2021]](https://ieeexplore.ieee.org/abstract/document/9408419/)
 + Real-world Anomaly Detection in Surveillance Videos [[CVPR 2018]](http://openaccess.thecvf.com/content_cvpr_2018/html/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.html)
 
 ### 3.3 Supervised
