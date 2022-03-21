@@ -1,4 +1,4 @@
-# Awesome-Visual-Sensory-Anomaly-Detection
+# [Awesome-Visual-Sensory-Anomaly-Detection](https://github.com/M-3LAB/awesome-visual-sensory-anomaly-detection)
 
 This list is the resources of [A Survey of Visual Sensory Anomaly Detection](https://arxiv.org/abs/2202.07006). 
 
